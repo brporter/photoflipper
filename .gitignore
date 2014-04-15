@@ -1,3 +1,4 @@
+
 #########################
 # .gitignore file for Xcode4 and Xcode5 Source projects
 #
@@ -162,3 +163,4 @@ xcuserdata
 # UNKNOWN: recommended by others, but I can't discover what these files are
 #
 # ...none. Everything is now explained.
+=======
